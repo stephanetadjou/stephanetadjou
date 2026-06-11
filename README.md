@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @stephanetadjou
 - 👀 I’m interested in dev and cloud computing
-- 🌱 I’m currently learning aws 
+- 🌱 I’m currently learning Azure
 - 💞️ I’m looking to collaborate on you
 - 📫 How to reach me : fotsingtadjou@gmail.com
 
